@@ -1,0 +1,5 @@
+{
+    "github.copilot.chat.agent.autoFix": true,
+    "github.copilot.chat.scopeSelection": false,
+    "github.copilot.nextEditSuggestions.extendedRange": true
+}
