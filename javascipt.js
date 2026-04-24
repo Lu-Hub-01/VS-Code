@@ -2,6 +2,6 @@ const subscribeButton = document.getElementById('subscribeButton');
 
 if (subscribeButton) {
     subscribeButton.addEventListener('click', () => {
-        window.location.href = 'maPage.html';
+        window.location.href = 'mainPage.html';
     });
 }
