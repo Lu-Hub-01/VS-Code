@@ -5,7 +5,7 @@
 
 .BodyIndex
 {
-    background: linear-gradient(135deg, #8c51eb, #df15d5);
+    background: linear-gradient(135deg, #3194f1,#16ec88);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,7 +63,7 @@
 
 .BodyIndex2
 {
-    background: linear-gradient(135deg, #df15d5,#8c51eb);
+    background: linear-gradient(135deg, #3194f1,#16ec88);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -103,13 +103,13 @@
 
 .tenor-gif-embed
 {
-    width: 30vh;
+    width: 450vh;
     height: 30vh;
 }
 
 iframe
 {
-    width: 40vh;
+    width: 45vh;
     border-radius: 30px;
 }
 
