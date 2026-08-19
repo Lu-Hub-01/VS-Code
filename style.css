@@ -1,0 +1,59 @@
+*
+{
+    font-family: "IBM Plex Mono", monospace;
+}
+
+.BodyIndex
+{
+    background: linear-gradient(135deg, hsl(0, 1%, 29%),hsl(0, 0%, 0%));
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1
+{
+    margin: 7.5px;
+}
+
+.firstClass
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.75rem;
+    background-color: transparent;
+    border-radius: 30px;
+    width: 90%;
+    height: 100vh;
+    margin: 0;
+    box-shadow: -8px -8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.firstText , .secondText, .thirdText
+{
+    text-align: center;
+    padding: 0 8px 0 8px;
+    margin: 0;
+    font-size: 15px;
+}
+
+.tenor-gif-embed
+{
+    width: 90%;
+    height: 100vh;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+
+iframe
+{
+    width: 90%;
+    height: 100vh;
+    border-radius: 30px;
+}
